@@ -8,3 +8,5 @@ Scripting Tasks with Python
 /email-playground - Sending email with Python and Gmail accont
 
 /passwordchecker - An application to check if password is pwned with API from pwnedpasswords
+
+/twitter-bot - Creating tweeter bot with Tweeter API, fetching follower by the name, fetching favourite tweets
